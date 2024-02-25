@@ -1,1 +1,11 @@
 /* your code */
+table{
+	border-radius:4px;
+	border:1.5px solid gray;
+#to,#tt {
+	background:#afafb6;
+	
+}
+	th{
+		background:#9494b8;
+	}
